@@ -30,16 +30,16 @@ Application is using [**PEX**](https://docs.intersystems.com/irislatest/csp/docb
 * /src with source files 
 * /.vscode/settings.json for automatic server connections when opened in VS Code.
 
-## Requirements:  
+## Requirements  
 * [Docker desktop]( https://www.docker.com/products/docker-desktop)
 * Get the latest InterSystems IRIS for Health image for use in the Dockerfile: https://hub.docker.com/_/intersystems-iris-for-health  
 
-## To Run on Windows:  
+## To Run on Windows  
 ```
 	git clone https://github.com/mwaseem75/iris-energy-isodata.git  
 	docker-compose up -d  
 ```
-## To Run on macOS:  
+## To Run on macOS  
 
 ```
 	git clone https://github.com/mwaseem75/iris-energy-isodata.git
@@ -71,5 +71,5 @@ http://irisisodata.demo.community.intersystems.com/csp/irisapp/EnsPortal.Product
 ![image](https://user-images.githubusercontent.com/18219467/190374380-548eb1bc-8593-47c5-9b22-e58d9ee1de3a.png)
 
 
-## Special Thanks to:
+## Special Thanks to
 Guillaume Rongier for: [https://openexchange.intersystems.com/package/secured-rest-api](https://openexchange.intersystems.com/package/interoperability-embedded-python) template for guidance
