@@ -65,11 +65,6 @@ Message
 The following message passed to operation contains today total production of Natural Gas, Solar, Imports, Wind, Large Hydro, Nuclear, Batteries, Geothermal, Biomass, Small hydro, Biogas and Coal energies  
 ![image](https://user-images.githubusercontent.com/18219467/189573344-f32fbb6c-73bf-4e5f-8453-8effc396f556.png)
 
-## Online Demo
-For online demo navigate to 
-http://irisisodata.demo.community.intersystems.com/csp/irisapp/EnsPortal.ProductionConfig.zen?PRODUCTION=PEX.Production by using SuperUser | SYS
-![image](https://user-images.githubusercontent.com/18219467/190374380-548eb1bc-8593-47c5-9b22-e58d9ee1de3a.png)
-
 
 ## Special Thanks to:
 Guillaume Rongier for: [https://openexchange.intersystems.com/package/secured-rest-api](https://openexchange.intersystems.com/package/interoperability-embedded-python) template for guidance
